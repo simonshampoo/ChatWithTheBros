@@ -1,4 +1,6 @@
-ChatWithTheBros, a revolutionary new web application that lets you chat... with the bros. 
+# ChatWithTheBros
+
+ChatWithTheBros is a revolutionary new web application that lets you chat... with the bros. 
 
 Fully functional with read receipts, picture sending, profile pictures, and real-time messaging!
 
