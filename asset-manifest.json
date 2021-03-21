@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChatWithTheBros/static/css/main.9d0395b6.chunk.css",
+    "main.js": "/ChatWithTheBros/static/js/main.d3f6130a.chunk.js",
+    "main.js.map": "/ChatWithTheBros/static/js/main.d3f6130a.chunk.js.map",
+    "runtime-main.js": "/ChatWithTheBros/static/js/runtime-main.23c1611c.js",
+    "runtime-main.js.map": "/ChatWithTheBros/static/js/runtime-main.23c1611c.js.map",
+    "static/js/2.6cc25afc.chunk.js": "/ChatWithTheBros/static/js/2.6cc25afc.chunk.js",
+    "static/js/2.6cc25afc.chunk.js.map": "/ChatWithTheBros/static/js/2.6cc25afc.chunk.js.map",
+    "static/js/3.a7d56385.chunk.js": "/ChatWithTheBros/static/js/3.a7d56385.chunk.js",
+    "static/js/3.a7d56385.chunk.js.map": "/ChatWithTheBros/static/js/3.a7d56385.chunk.js.map",
+    "index.html": "/ChatWithTheBros/index.html",
+    "static/css/main.9d0395b6.chunk.css.map": "/ChatWithTheBros/static/css/main.9d0395b6.chunk.css.map",
+    "static/js/2.6cc25afc.chunk.js.LICENSE.txt": "/ChatWithTheBros/static/js/2.6cc25afc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23c1611c.js",
+    "static/js/2.6cc25afc.chunk.js",
+    "static/css/main.9d0395b6.chunk.css",
+    "static/js/main.d3f6130a.chunk.js"
+  ]
+}
